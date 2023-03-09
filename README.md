@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
     <div align="center">
         <br>
-        <a href="https://www.acmicpc.net/user/ehensnfl"><img src="http://mazassumnida.wtf/api/generate_badge?boj=ehensnfl"/></a>
         <a href="https://solved.ac/ehensnfl"><img src="http://mazandi.herokuapp.com/api?handle=ehensnfl&theme=dark"/></a>
     </div>
 </div>
